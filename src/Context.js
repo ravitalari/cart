@@ -1,4 +1,3 @@
-import { getByPlaceholderText } from "@testing-library/react"
 import React,{useEffect, useState} from "react"
 
 const Context = React.createContext()
